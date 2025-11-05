@@ -1,0 +1,24 @@
+Program: Költseg nyilvántartás 
+Miért jó ez a projekt?
+Ez az alkalmazás hasznos, mert segít a felhasználóknak nyomon követni a bevételeiket és kiadásaikat.
+Könnyen áttekinthető, hogy mire mennyi pénzt költöttek, és megmutatja az egyenleget is.
+Mindez konzolos környezetben valósul meg, így egyszerű, átlátható, és könnyen bővíthető.
+
+Milyen funkciók vannak benne?
+1. Új tétel rögzítése (bevétel vagy kiadás kategóriával és összeggel).
+2. Összesítés (összes bevétel, összes kiadás, egyenleg).
+3. Tételek listázása (időponttal, kategóriával, összeggel).
+4. Kategóriánkénti összesítés.
+5. Legnagyobb bevétel és kiadás megjelenítése.
+6. Keresés hónap alapján (pl. 2025-09).
+7. Átlagos bevétel és kiadás kiszámítása.
+8. Adatok mentése és betöltése fájlba, hogy ne vesszenek el a program bezárása után.
++funkciók:
+- Több tárca hozzáadása 
+- Fájlban tárolja az adatokat;
+- Többi pénznem átváltás vagy más pénznem alapú tárca
+- Célok és megtakarítások követése Pl. „Szeretnék 200 000 Ft-ot félretenni laptopra” → mutassa, hogy hol tartasz a cél felé.
+- Valós idejű árfolyam letöltése
+- Ha több tárcád van (pl. „Készpénz”, „Bankkártya”, „PayPal”), lehessen köztük pénzt mozgatni.
+
+
